@@ -7,6 +7,7 @@
     <string name="name">Name</string>
     <string name="submit">submit</string>
     <string name="start">Start</string>
-    <string name="which_country_does_this_flag_belongs_to">Which country does this flag belongs to!</string>
+
     <string name="finish">FINISH</string>
+    <string name="which_country_does_this_flag_belongs_to">which country does this flag belongs to</string>
 </resources>

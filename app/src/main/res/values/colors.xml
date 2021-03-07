@@ -12,5 +12,6 @@
 
     <color name="nano_green">#61d800</color>
     <color name="light_red">#F44336</color>
+    <color name="light_black">#363A43</color>
 
 </resources>
